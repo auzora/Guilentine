@@ -20,7 +20,6 @@ int main(){
          printf("*");
       printf("\n");
    }
-   //brought to you by yours truly, auzora
    return 0;
 }
 
